@@ -2,7 +2,7 @@
 - 👀 I’m interested in comics, video game and coding
 - 🌱 I’m currently learning Js, Python, vueJs, react
 - 💞️ I’m looking to collaborate on fun project
-- 📫 How to reach me : my linkdin or ly mail
+- 📫 How to reach me : my linkedin or my mail
 - 😄 Pronouns: he/him
 
 <!---
